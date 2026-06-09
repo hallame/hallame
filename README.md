@@ -18,8 +18,7 @@
 Full-stack freelance developer and founder of [OMIZIX](https://omizix.com), a software company registered in Benin.
 3 years of production Laravel. I build SaaS, marketplaces, and custom platforms for francophone African clients and institutions.
 
-Currently completing my engineering program at RUDN University. Admitted to another master program :)))
-Long-term target: **DevSecOps and Cloud Security Architecture**.
+Currently completing my engineering program at RUDN University. Long-term target: **DevSecOps and Cloud Security Architecture**.
 
 ---
 
@@ -30,6 +29,7 @@ Backend      PHP, Laravel, MySQL, PostgreSQL, MongoDB
 Frontend     TailwindCSS, Alpine.js, Blade, Next.js
 DevOps       Docker, GitHub Actions, AWS (SAA in progress)
 Payments     CinetPay, FedaPay, Mobile Money, Moneroo, LengoPay, PayDunya, Stripe
+Security     OWASP, RBAC, Burp Suite, Sanctum, TryHackMe, DevSecOps track
 ```
 
 ---
@@ -55,6 +55,6 @@ Full African payment stack in production environments.
 
 ### Now
 
-- Building and beta-testing **Dialette** - SSE, payment integration, embeddable widget
 - Master's thesis: hybrid SQL/NoSQL migration strategy for SaaS
 - AWS Solutions Architect Associate in progress
+- DevOps: CI/CD projects - Docker, Kubernetes, Ansible, GitLab, Jenkins, Terraform
