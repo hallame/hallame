@@ -29,7 +29,7 @@ Backend      PHP, Laravel, MySQL, PostgreSQL, MongoDB
 Frontend     TailwindCSS, Alpine.js, Blade, Next.js
 DevOps       Docker, GitHub Actions, AWS (SAA in progress)
 Payments     CinetPay, FedaPay, Mobile Money, Moneroo, LengoPay, PayDunya, Stripe
-Security     OWASP, RBAC, Burp Suite, Sanctum, TryHackMe, DevSecOps track
+Security     OWASP, RBAC, Burp Suite, Sanctum, DevSecOps track
 ```
 
 ---
