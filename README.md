@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hormise+Allame;Full-Stack+Engineer+%7C+Laravel+%26+Next.js;SaaS+%26+Business+Applications;Founder+%40+OMIZIX" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Hormise+ALLAME;Full-Stack+Engineer+%7C+Laravel+%26+Next.js;SaaS+%26+Business+Applications;Founder+%40+OMIZIX" alt="Typing SVG" />
 
 **Full-Stack Engineer | Laravel & Next.js | SaaS & Business Applications**
 
