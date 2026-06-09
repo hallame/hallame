@@ -61,12 +61,3 @@ Experience with the full African payment stack in production environments.
 - AWS Solutions Architect Associate in progress
 - Admitted to **Master MIAGE — Université de Rennes**, Sept 2026
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hallame&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=2DD4BF&text_color=ffffff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hallame&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=ffffff)
-
-</div>
