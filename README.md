@@ -38,7 +38,7 @@ Security     OWASP, RBAC, Burp Suite, Sanctum, TryHackMe, DevSecOps track
 
 | Project | Description |
 |---|---|
-| **Dialette** | Conversational CRM SaaS for francophone independent consultants |
+| **[Dialette](https://dialette.com)** | Conversational CRM SaaS for francophone independent consultants |
 | **Zaly Merveille** | Tourism SaaS platform, 8+ modules |
 | **Zaly Solidaire** | Crowdfunding platform |
 | **Dimio Media** | Newsletter and media platform - Laravel API, Next.js frontend |
