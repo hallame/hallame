@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=700&size=28&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Hormise+Allame;Full-Stack+Developer+%7C+Laravel;Founder+%40+OMIZIX;Building+for+francophone+Africa" alt="Typing SVG" />
 
-**Building production SaaS in francophone Africa · DevSecOps track · Based between Benin and Moscow**
+**Shipping production SaaS in francophone Africa · DevSecOps track · Benin → Moscow → Rennes**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hallame-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/hallame)
 [![Codeur](https://img.shields.io/badge/Codeur.com-4.94%2F5%20·%20top%200.1%25-F97316?style=flat)](https://www.codeur.com/-omizix)
@@ -13,35 +13,54 @@
 
 ---
 
-### What I ship
+### About
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Dialette](https://omizix.com)** | Conversational CRM SaaS for francophone consultants — 19€/month | Laravel, SSE, Moneroo |
-| **Zaly Merveille** | Tourism SaaS platform, 8+ modules | Laravel, MySQL, Tailwind |
-| **[Mylmark](https://omizix.com)** | Beninese marketplace, live since Jan 2026 | Laravel, FedaPay |
-| **Zaly Solidaire** | Crowdfunding platform | Laravel, Filament v5 |
+I'm a full-stack freelance developer and founder of [OMIZIX](https://omizix.com), a software company registered in Benin.
+3 years of production Laravel. I build SaaS, marketplaces, and custom platforms — mostly for francophone African clients and institutions.
+
+Currently completing a Master's at RUDN University (Moscow), admitted to **Master MIAGE** at Université de Rennes starting September 2026.
+Long-term target: **DevSecOps and Cloud Security Architecture**.
 
 ---
 
 ### Stack
 
 ```text
-Backend     PHP · Laravel · MySQL · PostgreSQL · MongoDB
-Frontend    TailwindCSS · Alpine.js · Blade · Next.js (learning)
-DevOps      Docker · GitHub Actions · Hostinger · AWS (SAA track)
-Payments    CinetPay · FedaPay · Orange Money · MTN MoMo · Moneroo
-Security    Spatie Permissions · Sanctum · DevSecOps trajectory
+Backend      PHP · Laravel · MySQL · PostgreSQL · MongoDB
+Frontend     TailwindCSS · Alpine.js · Blade · Next.js
+DevOps       Docker · GitHub Actions · AWS (SAA in progress)
+Payments     CinetPay · FedaPay · Orange Money · MTN MoMo · Moneroo · LengoPay
+Security     Spatie Permissions · Sanctum · DevSecOps trajectory
 ```
+
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Dialette** | Conversational CRM SaaS for francophone consultants — 19€/mo | Laravel · SSE · Moneroo |
+| **Zaly Merveille** | Tourism SaaS platform, 8+ modules | Laravel · MySQL · Tailwind |
+| **Mylmark** | Beninese marketplace, live since Jan 2026 | Laravel · FedaPay |
+| **Zaly Solidaire** | Crowdfunding platform | Laravel · Filament v5 |
+| **ORATIO** | Multi-module institutional platform (OMIZIX) | Laravel · CinetPay · Alpine.js |
+
+---
+
+### Institutional work
+
+Delivered solutions for organizations across Benin and Guinea:
+political party platforms, church management systems, university ERPs, and crowdfunding infrastructure.
+Experience with the full African payment stack in production environments.
 
 ---
 
 ### Now
 
-- 🔧 Finishing **Dialette** (SSE + payment + embeddable widget)
-- 📝 Master's thesis: hybrid SQL/NoSQL architecture for SaaS (RUDN University)
-- 🎓 Admitted to **Master MIAGE** — Université de Rennes, Sept 2026
-- ☁️ AWS Solutions Architect Associate in progress
+- Finishing **Dialette** — SSE, Moneroo integration, embeddable widget
+- Master's thesis: hybrid SQL/NoSQL migration strategy for SaaS (RUDN)
+- AWS Solutions Architect Associate in progress
+- Admitted to **Master MIAGE — Université de Rennes**, Sept 2026
 
 ---
 
