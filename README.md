@@ -28,8 +28,8 @@ Currently completing my engineering program at RUDN University. Long-term target
 Backend      PHP, Laravel, MySQL, PostgreSQL, MongoDB
 Frontend     TailwindCSS, Alpine.js, Blade, Next.js
 DevOps       Docker, GitHub Actions, AWS (SAA in progress)
-Payments     CinetPay, FedaPay, Mobile Money, Moneroo, LengoPay, PayDunya, Stripe
-Security     OWASP, RBAC, Burp Suite, Sanctum, DevSecOps track
+Payments     Djomy, CinetPay, FedaPay, Mobile Money, Moneroo, LengoPay, PayDunya, Stripe
+Security     OWASP, RBAC, Sanctum, DevSecOps track
 ```
 
 ---
@@ -39,10 +39,10 @@ Security     OWASP, RBAC, Burp Suite, Sanctum, DevSecOps track
 | Project | Description |
 |---|---|
 | **[Dialette](https://dialette.com)** | Conversational CRM SaaS for francophone independent consultants |
+| **[ORATIO Health](https://oratiohealth.com)** | Multi-pole SaaS platform for a health leadership group - training, coaching, booking, payments, 3 user panels |
 | **Zaly Merveille** | Tourism SaaS platform, 8+ modules |
 | **Zaly Solidaire** | Crowdfunding platform |
 | **Dimio Media** | Newsletter and media platform - Laravel API, Next.js frontend |
-| **ORATIO** *(in progress)* | Multi-module platform for a health leadership group - training, consulting, studio, community programs |
 
 ---
 
@@ -56,5 +56,5 @@ Full African payment stack in production environments.
 ### Now
 
 - Master's thesis: hybrid SQL/NoSQL migration strategy for SaaS
-- AWS Solutions Architect Associate in progress
-- DevOps: CI/CD projects - Docker, Kubernetes, Ansible, GitLab, Jenkins, Terraform
+- Long-term target: DevSecOps / Cloud Security Architecture
+- Actively taking on freelance missions via OMIZIX
