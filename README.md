@@ -5,7 +5,7 @@
 **Full-Stack Engineer | Laravel & Next.js | SaaS & Business Applications**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hallame-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/hallame)
-[![Portfolio](https://img.shields.io/badge/omizix.com-111111?style=flat&logo=vercel&logoColor=10B981)](https://omizix.com)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20omizix.com-111111?style=flat)](https://omizix.com)
 [![Email](https://img.shields.io/badge/hormise%40omizix.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hormise@omizix.com)
 [![Codeur](https://img.shields.io/badge/Codeur.com-4.9%2F5-F97316?style=flat)](https://www.codeur.com/-omizix)
 
