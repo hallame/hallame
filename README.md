@@ -8,6 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/omizix.com-111111?style=flat&logo=vercel&logoColor=10B981)](https://omizix.com)
 [![Email](https://img.shields.io/badge/hormise%40omizix.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hormise@omizix.com)
 [![Codeur](https://img.shields.io/badge/Codeur.com-4.9%2F5%20·%20top%200.1%25-F97316?style=flat)](https://www.codeur.com/-omizix)
+[![Codeur](https://img.shields.io/badge/Codeur.com-4.9%2F5-F97316?style=flat)](https://www.codeur.com/-omizix)
 
 </div>
 
